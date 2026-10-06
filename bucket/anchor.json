@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/fuseraft/anchor/releases/download/v0.4.0/anchor-0.4.0-win-x64.zip",
-      "hash": "0d086745df5a1b83e299bc6f72ff3671dd0d0cdfd4cade6fa3fcd6ed683f51ae"
+      "hash": "50c0075ea7191d369a4f1c960ad8bdc6101aa4d032535b4bb52dce915f706d66"
     }
   },
   "bin": "anchor.exe",
