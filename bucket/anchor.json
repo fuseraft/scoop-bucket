@@ -1,12 +1,12 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "A small coding agent for the terminal",
   "homepage": "https://fuseraft.ai/anchor/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/fuseraft/anchor/releases/download/v0.8.0/anchor-0.8.0-win-x64.zip",
-      "hash": "d9eaa5a2e7e26d9efce2ef9cd71872d7d94fd748f98a90decfb855c2047d19b6"
+      "url": "https://github.com/fuseraft/anchor/releases/download/v0.8.1/anchor-0.8.1-win-x64.zip",
+      "hash": "1b4d78bb104834e2f046f1a0500152139a485c63ec65f94a8da53166b5e64a41"
     }
   },
   "bin": "anchor.exe",
